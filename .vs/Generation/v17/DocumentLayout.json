@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\",
+  "WorkspaceRootPath": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testgenerator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\downloads\\testgenerator-master\\testgenerator-master\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testgenerator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\downloads\\testgenerator-master\\testgenerator-master\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testgenerator\\createandchangetest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\downloads\\testgenerator-master\\testgenerator-master\\createandchangetest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|solutionrelative:createandchangetest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testgenerator\\createandchangetest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\downloads\\testgenerator-master\\testgenerator-master\\createandchangetest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|solutionrelative:createandchangetest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testgenerator\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|c:\\users\\park_\\downloads\\testgenerator-master\\testgenerator-master\\first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FF253FA-E3C8-4162-B1F8-5F1A83772F18}|Generation.csproj|solutionrelative:first.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CreateAndChangeTest.xaml",
-              "DocumentMoniker": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\CreateAndChangeTest.xaml",
+              "DocumentMoniker": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\CreateAndChangeTest.xaml",
               "RelativeDocumentMoniker": "CreateAndChangeTest.xaml",
-              "ToolTip": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\CreateAndChangeTest.xaml",
+              "ToolTip": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\CreateAndChangeTest.xaml",
               "RelativeToolTip": "CreateAndChangeTest.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-22T17:42:56.483Z"
@@ -55,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CreateAndChangeTest.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\CreateAndChangeTest.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\CreateAndChangeTest.xaml.cs",
               "RelativeDocumentMoniker": "CreateAndChangeTest.xaml.cs",
-              "ToolTip": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\CreateAndChangeTest.xaml.cs",
+              "ToolTip": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\CreateAndChangeTest.xaml.cs",
               "RelativeToolTip": "CreateAndChangeTest.xaml.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAqwBIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,9 +67,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "First.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\First.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\First.xaml.cs",
               "RelativeDocumentMoniker": "First.xaml.cs",
-              "ToolTip": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\First.xaml.cs",
+              "ToolTip": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\First.xaml.cs",
               "RelativeToolTip": "First.xaml.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,9 +79,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-22T17:00:31.168Z"
@@ -90,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\park_\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\testGenerator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\park_\\Downloads\\testGenerator-master\\testGenerator-master\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
