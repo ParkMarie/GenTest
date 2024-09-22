@@ -1,0 +1,29 @@
+﻿<Window x:Class="Generation.First"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Generation"
+        mc:Ignorable="d"
+        Title="First" Height="500" Width="517" >
+    <Grid Background="#FFBDA0FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border  BorderThickness="1" Margin="0,10,0,10" Grid.ColumnSpan="3" Grid.Row="2" />
+        <Button x:Name="back" Content="Выйти" Background="White" Foreground="Black" Grid.Row="2" VerticalAlignment="Center" Height="50" FontFamily="Bodoni MT Black" Margin="10,0,10,0" Click="back_Click" BorderBrush="Black"/>
+        <Button x:Name="ChangeTest" Content="Редактировать&#x0a;        тест" Background="White" Foreground="Black" Grid.Row="2" VerticalAlignment="Center" Height="50" FontFamily="Bodoni MT Black" Margin="10,0,8,0" Grid.Column="1" Click="ChangeTest_Click" BorderBrush="Black"/>
+        <Button x:Name="goTestOne" Content="Пройти&#x0a;   тест" Background="White" Foreground="Black" Grid.Row="2" VerticalAlignment="Center" Height="50" FontFamily="Bodoni MT Black" Margin="10,0,8,0" Grid.Column="2" Click="goTestOne_Click" BorderBrush="Black"/>
+        <Frame x:Name="forThirdPage" Grid.ColumnSpan="3" Grid.RowSpan="3" Margin="0,0,0,115"/>
+        <Border BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,0,333" Grid.RowSpan="2"/>
+        <Frame x:Name="ForThirdPage" Grid.ColumnSpan="3" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

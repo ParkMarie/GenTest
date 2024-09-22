@@ -1,0 +1,38 @@
+﻿<Page x:Class="Generation.CreateAndChangeTest"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Generation"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="517"
+      Title="CreateAndChangeTest">
+
+    <Grid Background="#FFBDA0FF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        
+
+        <Border BorderThickness="1" Margin="0,10,0,10" Grid.ColumnSpan="3" Grid.Row="2"/>
+        <Button x:Name="AddTest" Content="Добавить&#x0a;    тест" Background="White" Foreground="Black" Grid.Row="2" VerticalAlignment="Center" Height="50" FontFamily="Bodoni MT Black" Margin="10,0,8,0" Grid.ColumnSpan="3" Click="AddTest_Click" BorderBrush="Black"/>
+        <Border BorderThickness="1" Grid.ColumnSpan="3" Margin="0,0,0,333" Grid.RowSpan="2"/>
+        <DataGrid x:Name="MyDataGrid" Grid.ColumnSpan="3" Background="White" Margin="1,0,1,0" SelectionChanged="MyDataGrid_SelectionChanged" Grid.RowSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Вопрос"/>
+                <DataGridTextColumn Header="Ответ1"/>
+                <DataGridTextColumn Header="Ответ2"/>
+                <DataGridTextColumn Header="Правильный ответ"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>

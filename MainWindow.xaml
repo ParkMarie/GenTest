@@ -1,0 +1,27 @@
+﻿<Window x:Class="Generation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Generation"
+        mc:Ignorable="d"
+        Title="Generation" Height="500" Width="517" Background="#FFBDA0FF">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="201*"/>
+            <RowDefinition Height="41*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border BorderThickness="1" Grid.RowSpan="1" Grid.ColumnSpan="2" Margin="0,0,0,319"/>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="350" Height="23" Grid.ColumnSpan="2" Background="White" TextAlignment="Center" FontFamily="Bodoni MT Black" TextChanged="Password_TextChanged" BorderBrush="Black" SelectionBrush="Black" SelectionTextBrush="Black" Margin="81,0,0,0"/>
+        <TextBlock TextAlignment="Center" TextWrapping="Wrap" Grid.ColumnSpan="2" FontSize="20" FontFamily="Bodoni MT Black" Height="104" VerticalAlignment="Center"><Run Text="Хэй!"/><LineBreak/><Run Text="Можете пройти тест, создать свой или подредактировать тест :3 "/></TextBlock>
+        <Border  BorderThickness="1" Margin="0,10,0,10" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <Button x:Name="PassingTest" Content="Ура! Пройти тест" Background="White" Foreground="Black" Grid.Row="1" VerticalAlignment="Center" Height="50" Click="PassingTest_Click" FontFamily="Bodoni MT Black" Margin="10,0,10,0"/>
+        <Button x:Name="CreateTest" Content="Создать тест" Background="White" Foreground="Black" Grid.Row="1" VerticalAlignment="Center" Height="50" Grid.Column="1" Click="CreateTest_Click" FontFamily="Bodoni MT Black" Margin="10,0,10,0"/>
+        <Frame x:Name="Frame" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
